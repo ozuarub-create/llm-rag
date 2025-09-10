@@ -1,0 +1,8 @@
+jupyter
+ipykernel
+openai
+tiktoken
+black
+ruff
+isort
+pre-commit

@@ -1,0 +1,6 @@
+Digital Cubic - Week 1 Foundations
+- Learn Python, Git, virtual environments
+- Basics of LLMs, embeddings, RAG
+- Set up reproducible environment
+- Run a 'Hello LLM' notebook
+This file is only for testing retrieval.
